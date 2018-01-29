@@ -37,3 +37,7 @@ body, html {
     font-family: 'Abel', sans-serif;
 }
 
+.navi:hover{
+    background-color: #404040;
+}
+
